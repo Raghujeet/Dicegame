@@ -1,0 +1,27 @@
+body {
+    background-color: #393E46;
+}
+
+.container {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+
+}
+
+h1 {
+    font-size: 6rem;
+    font-family: 'Lobster';
+
+}
+
+.dice {
+    display: inline-block;
+    margin: 0 2%;
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 10%;
+}
